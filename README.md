@@ -1,2 +1,3 @@
 # Olá, Mundo
- Primeiro repositório versionado
+ Primeiro repositório versionado de Git e Github
+ 
